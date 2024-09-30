@@ -204,7 +204,7 @@ html, body {
     font-size: 15px;
     color: white;
     margin-bottom: 1em;
-    font-family: "Pixelify Sans", sans-serif;
+    font-family:"Pixelify Sans", sans-serif;
     text-align: center;
 }
 
@@ -226,14 +226,13 @@ html, body {
     font-size: 20px;
 }
 
-
 .descricao{
   text-align: center;
   font-family: "Pixelify Sans", sans-serif;
   font-size: 20px;
 }
 
-
+/* página final*/
 .titulo3 {
     font-weight: 700;
     font-size: 45px;
@@ -242,9 +241,10 @@ html, body {
     font-family: "Bungee Tint", sans-serif;
     text-align: center;
 }
+
 .dispositivos {
     text-align: center;
-  margin-top: 60px;
+    margin-top: 60px;
 }
 
 .dispositivos img {
@@ -254,7 +254,7 @@ html, body {
 
 .item {
     font-size: 32px;
-    color: white;
+    color: #FFC107;
     padding: 0 50px;
 }
 
@@ -274,14 +274,14 @@ html, body {
 .listalink a {
     text-decoration: none;
     color: white;
-    font-size: 12px;
+    font-size: 17px;
     margin-left: 1em;
 }
 
 .rodapetexto {
     margin: 1em 0;
     color: black;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .listalink a:hover {
